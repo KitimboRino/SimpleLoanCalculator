@@ -1,1 +1,1 @@
-# A SimpleLoanCalculator in javascript
+# A Simple Loan Calculator in javascript
