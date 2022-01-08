@@ -1,0 +1,1 @@
+# A SimpleLoanCalculator in javascript
